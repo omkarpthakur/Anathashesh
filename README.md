@@ -36,6 +36,9 @@ git clone [repository-url]
 cd ananthashesh
 python setup.py install
 ```
+### USE CASE
+
+![Screenshot 2024-12-24 185417](https://github.com/user-attachments/assets/b86dd62e-41b8-470f-8c95-63e1252fd857)
 
 ### Usage
 ```bash
